@@ -261,6 +261,7 @@ Bot generates full structured summary in Kannada.
 This system successfully behaves as a business-focused AI research assistant for YouTube content with multi-language capability and contextual intelligence.
 
 
+# 🚀 **DEMO – OPEN THIS LINK**
 
-* 📄 Short architecture explanation for interview
-* 🗣️ Viva questions with answers
+👉 [Click Here to Watch the Demo](https://drive.google.com/file/d/1Ys7kO6pLL7qSjsQQB0ZKQpVVLm5U2Z5c/view?usp=drivesdk)
+
